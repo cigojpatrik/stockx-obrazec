@@ -10,7 +10,7 @@
 </head>
 <body>
   <header>
-	<img src="slike/logostockx.png" alt="StockX logo">
+	<img id="logo" src="slike/logostockx.png" alt="StockX logo">
   </header>
 
   <div class="jaja">
@@ -123,8 +123,20 @@ document.querySelector(".btn").addEventListener("click", function(event) {
 });
 
 </script>
+	<script>
+document.getElementById("logo").addEventListener("click", function () {
+    Swal.fire({
+        title: "Credits",
+        text: "Patrik Cigoj, 4.RA",
+        icon: "success",
+        confirmButtonText: "OK",
+		confirmButtonColor: "#067a4f"
+    });
+});
+</script>
 </body>
 </html>
+
 
 
 
