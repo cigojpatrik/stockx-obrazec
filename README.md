@@ -1,4 +1,4 @@
-# StockX – Sign Up / Log In Clone
+# Replica of StockX
 
 This project is a clean, modern clone of the **StockX sign-up / sign-in pages**, created for learning and practicing web development. It includes fully functional form validation, a responsive layout, and SweetAlert2 pop-up messages.
 
