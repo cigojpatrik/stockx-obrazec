@@ -61,9 +61,7 @@ The media query adjusts the logo size, button padding, and icon sizes.
 **Patrik Cigoj**  
 Clicking the logo inside the project displays a Credits pop-up.
 
-## Original website:
-![StockX](slike/original.png)
 
-## Replica of website:
-![StockX](slike/replika.png)
+![StockX](slike/origirep.jpg)
+
 
